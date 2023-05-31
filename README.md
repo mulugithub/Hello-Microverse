@@ -60,7 +60,7 @@
 
 > Click the live demo to access the application.
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://mulugithub.github.io/Hello-Microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
