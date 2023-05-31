@@ -1,3 +1,9 @@
+# Node modules
+node_modules/
+
+# test.md
+test.md
+
 # Logs
 logs
 *.log
